@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: #027bcc;
+    
+}
+
+.container   {
+    margin-top: 100px;
+    background-color: #06e0c3;
+    color: white;
+    width: 1100px;
+    height: 470px;
+    align-items: center;
+    padding: 25px;
+    color: #000;
+    border-radius: 50px;
+    position: relative;
+}
+
+.mobile-img {
+
+    width: 430px;
+    float: right;
+    position: absolute;
+    right: 25px;
+    top: -80px;
+}
+    
+h2 {
+    font-size: 40px;
+    margin-top: 40px;
+    
+}
+
+p {
+    margin-top: 10px;
+    font-size: 18px;
+} 
+
+.my-btn {
+    margin: 100px 0 0 0;
+    background-color: #ffffff;
+    width: 180px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    align-items: center;
+    text-align: left;
+    align-content: center;
+    font-size: 16px;
+    line-height: 16px;
+    cursor: pointer;    
+}
+
+img {
+    width: 65px;
+    align-items: center;
+    float: left;
+    margin: -7px -10px 0 -10px ;
+}
+
+
+.my-btn2 {
+    margin: 100px 0 0 20px;
+    background-color: #ffffff;
+    width: 170px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    align-items: center;
+    text-align: left;
+    align-content: center;
+    font-size: 16px;  
+    line-height: 16px;
+    cursor: pointer;
+}
+
+.img2 {
+    width: 30px;
+    align-items: center;
+    float: left;
+    margin: 0px 5px 0 10px ;
+    
+}
